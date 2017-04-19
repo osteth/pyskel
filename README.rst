@@ -1,4 +1,6 @@
-pyskel
+pyskel - forked for personal customizations do not use this fork! This is not my orginal work!
+see https://github.com/mapbox/pyskel for original.
+
 ======
 
 .. image:: https://travis-ci.org/mapbox/pyskel.svg
